@@ -1,0 +1,9 @@
+README.md
+setup.py
+Escellearn/__init__.py
+Escellearn.egg-info/PKG-INFO
+Escellearn.egg-info/SOURCES.txt
+Escellearn.egg-info/dependency_links.txt
+Escellearn.egg-info/not-zip-safe
+Escellearn.egg-info/requires.txt
+Escellearn.egg-info/top_level.txt
